@@ -1,0 +1,7 @@
+torch
+scikit-learn
+pandas
+matplotlib
+seaborn
+zenml[mlflow]>=0.41.0
+mlflow

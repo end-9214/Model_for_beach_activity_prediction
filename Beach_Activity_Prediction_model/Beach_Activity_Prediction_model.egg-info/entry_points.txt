@@ -1,0 +1,2 @@
+[console_scripts]
+run-training-pipeline = Beach_Activity_Prediction_model.pipelines.training_pipeline:main
